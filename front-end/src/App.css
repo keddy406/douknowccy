@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+.index{
+  display: flex;
+}
+.navbar{
+border-right: 1px solid red;
+}
